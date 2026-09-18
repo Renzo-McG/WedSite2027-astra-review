@@ -1,0 +1,8 @@
+{
+  "purpose": "Independent Astra review only. Not approved for production.",
+  "sourceBranch": "feat/travel-island-guide",
+  "sourceCommit": "d901db529eece86d28b53b8609ef526da205e20c",
+  "base": "/WedSite2027-astra-review/",
+  "entry": "travel/",
+  "method": "Astro static build, separate GitHub Pages repository"
+}
