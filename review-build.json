@@ -1,8 +1,10 @@
 {
-  "purpose": "Independent Astra review only. Not approved for production.",
-  "sourceBranch": "feat/travel-island-guide",
-  "sourceCommit": "d901db529eece86d28b53b8609ef526da205e20c",
-  "base": "/WedSite2027-astra-review/",
-  "entry": "travel/",
-  "method": "Astro static build, separate GitHub Pages repository"
+  "purpose": "Astra Travel & Stay Round 2 review deployment",
+  "sourceRepository": "Renzo-McG/WedSite2027",
+  "sourceBranch": "feat/travel-product-shell-r2",
+  "sourceCommit": "75e4a331d1fd223d8fc4d223653fce18a043308d",
+  "builtAt": "2026-09-19T07:46:17Z",
+  "reviewEntry": "/WedSite2027-astra-review/welcome/",
+  "indexing": "noindex,nofollow",
+  "deploymentType": "review-only GitHub Pages artifact"
 }
